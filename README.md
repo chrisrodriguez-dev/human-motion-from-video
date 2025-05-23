@@ -1,4 +1,4 @@
-## Overview
+## Description
 
 This project processes 2D video input (from a file or webcam) to generate a 3D skeleton-based human motion reconstruction using deep learning and physics-informed modeling. It is adapted from PHC (Physics-based Human-centric Motion Generation) for use in real-time demo environments.
 
